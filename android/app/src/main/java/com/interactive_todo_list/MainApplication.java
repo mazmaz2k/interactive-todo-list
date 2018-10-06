@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.interactive_todo_list;
 
 import android.app.Application;
 
