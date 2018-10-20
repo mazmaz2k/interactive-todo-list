@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "Interactive_todo_list-tvOS.app"
-               BlueprintName = "Interactive_todo_list-tvOS"
-               ReferencedContainer = "container:Interactive_todo_list.xcodeproj">
+               BuildableName = "roomer-tvOS.app"
+               BlueprintName = "roomer-tvOS"
+               ReferencedContainer = "container:roomer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Interactive_todo_list-tvOSTests.xctest"
-               BlueprintName = "Interactive_todo_list-tvOSTests"
-               ReferencedContainer = "container:Interactive_todo_list.xcodeproj">
+               BuildableName = "roomer-tvOSTests.xctest"
+               BlueprintName = "roomer-tvOSTests"
+               ReferencedContainer = "container:roomer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Interactive_todo_list-tvOSTests.xctest"
-               BlueprintName = "Interactive_todo_list-tvOSTests"
-               ReferencedContainer = "container:Interactive_todo_list.xcodeproj">
+               BuildableName = "roomer-tvOSTests.xctest"
+               BlueprintName = "roomer-tvOSTests"
+               ReferencedContainer = "container:roomer.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Interactive_todo_list-tvOS.app"
-            BlueprintName = "Interactive_todo_list-tvOS"
-            ReferencedContainer = "container:Interactive_todo_list.xcodeproj">
+            BuildableName = "roomer-tvOS.app"
+            BlueprintName = "roomer-tvOS"
+            ReferencedContainer = "container:roomer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Interactive_todo_list-tvOS.app"
-            BlueprintName = "Interactive_todo_list-tvOS"
-            ReferencedContainer = "container:Interactive_todo_list.xcodeproj">
+            BuildableName = "roomer-tvOS.app"
+            BlueprintName = "roomer-tvOS"
+            ReferencedContainer = "container:roomer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Interactive_todo_list-tvOS.app"
-            BlueprintName = "Interactive_todo_list-tvOS"
-            ReferencedContainer = "container:Interactive_todo_list.xcodeproj">
+            BuildableName = "roomer-tvOS.app"
+            BlueprintName = "roomer-tvOS"
+            ReferencedContainer = "container:roomer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

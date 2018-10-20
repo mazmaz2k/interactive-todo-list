@@ -1,5 +1,5 @@
 {
-  "name": "Interactive_todo_list",
+  "name": "roomer",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,14 +7,17 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.5.0",
-    "react-native": "0.57.2"
+    "@expo/vector-icons": "^8.0.0",
+    "native-base": "^2.8.1",
+    "react": "16.6.0-alpha.8af6728",
+    "react-native": "0.57.3",
+    "react-navigation": "^2.18.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
     "jest": "23.6.0",
-    "metro-react-native-babel-preset": "0.48.0",
-    "react-test-renderer": "16.5.0"
+    "metro-react-native-babel-preset": "0.48.1",
+    "react-test-renderer": "16.6.0-alpha.8af6728"
   },
   "jest": {
     "preset": "react-native"
